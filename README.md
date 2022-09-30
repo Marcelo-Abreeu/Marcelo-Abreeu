@@ -6,8 +6,7 @@
  
   <a href="https://github.com/Marcel0-Abreu/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcel0-Abreu&layout=compact&langs_count=7&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abreu-marcelo&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  ### Linguagens que estou estudando!
