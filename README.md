@@ -5,8 +5,7 @@
 - 💬  - Meu email para contato abreu.marcelo@escola.pr.gov.br...
  
   <a href="https://github.com/Marcel0-Abreu/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
-
+  
 ### Linguagens que estou estudando!
 
 <div style="display: inline_block"><br>
@@ -23,7 +22,8 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
+
 </div>
 
  ![](https://komarev.com/ghpvc/?username=kamilli-abreu)
