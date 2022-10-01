@@ -1,4 +1,4 @@
-### Olá meu nome é Marcelo 👋
+### Olá meu nome é Marcelo Henrique 👋
 
 - 🧑‍🎓  - No momento estou estudando HTML & CSS...
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
@@ -7,7 +7,7 @@
   <a href="https://github.com/Marcel0-Abreu/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
- ### Linguagens que estou estudando!
+   ### Linguagens que estou estudando!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,7 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-## 
+    ### Como entrar em contato comigo?
 
 <div> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
