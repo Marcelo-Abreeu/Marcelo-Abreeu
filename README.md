@@ -21,7 +21,7 @@
 
 ### Como entrar em contato comigo?
 
-<section align="center">    
+<section>    
 <a href="abreu.marcelo@escola.pr.gov.br" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 <a href="#" target="_blank"><img width="90em" src="https://img.shields.io/badge/twitter-21262D?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img width="107em" src="https://img.shields.io/badge/-Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
