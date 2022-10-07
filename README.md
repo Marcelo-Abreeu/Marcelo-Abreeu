@@ -29,6 +29,7 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+
 </div>
 
  ![](https://komarev.com/ghpvc/?username=kamilli-abreu)
