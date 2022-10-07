@@ -4,8 +4,11 @@
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
 - 💬  - Meu email para contato abreu.marcelo@escola.pr.gov.br...
  
-  <a href="https://github.com/Marcel0-Abreu/">
-  
+  <div>
+  <a href="https://github.com/abreu-marcelo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 ### Linguagens que estou estudando!
 
 <div style="display: inline_block"><br>
