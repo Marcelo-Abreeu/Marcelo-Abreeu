@@ -15,7 +15,7 @@
 
 ### Linguagens que estou estudando!
 
-<section>
+<section text-align: center;>
 <img width="77em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=white">
 <img width="107em" src="https://img.shields.io/badge/javascript-21262D?style=for-the-badge&logo=javascript&logoColor=white">
 <img width="68em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white">
