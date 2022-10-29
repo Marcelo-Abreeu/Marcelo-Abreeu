@@ -6,14 +6,14 @@
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
 - 💬  - Meu email para contato abreu.marcelo@escola.pr.gov.br...
 
-<h1 align="center"> Estatísticas do meu perfil! </h1>
+<h2 align="center"> Estatísticas do meu perfil! </h2>
 
 <div align="center">
 <a href="https://github.com/abreu-marcelo">
 <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-### Linguagens que estou estudando!
+<h3 align="center"> Linguagens que estou estudando! </h3>
 
 <section align="center">
 <img width="77em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=white">
@@ -21,7 +21,7 @@
 <img width="68em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white">
 </section>
 
-### Como entrar em contato comigo?
+<h3 align="center"> Como entrar em contato comigo? </h3>
 
 <section align="center">    
 <a href="abreu.marcelo@escola.pr.gov.br" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=white"></a> 
