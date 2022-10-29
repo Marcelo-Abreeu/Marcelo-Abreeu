@@ -1,4 +1,6 @@
-### Olá, meu nome é Marcelo Henrique 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=160&section=header&text=Marcelo+Abreu&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=48&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+Abreu+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
 - 🧑‍🎓  - No momento estou estudando HTML & CSS...
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
@@ -32,6 +34,4 @@
 
 </div>
 
- ![](https://komarev.com/ghpvc/?username=kamilli-abreu)
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=130&section=footer"/>
