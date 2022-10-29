@@ -6,6 +6,7 @@
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
 - 💬  - Meu email para contato abreu.marcelo@escola.pr.gov.br...
 
+-------
 <h2 align="center"> Estatísticas do meu perfil! </h2>
 
 <div align="center">
