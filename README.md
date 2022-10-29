@@ -14,7 +14,7 @@
 <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-<h3 align="center"> Linguagens que estou estudando! </h3>
+<h2 align="center"> Linguagens que estou estudando! </h2>
 
 <section align="center">
 <img width="77em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,7 +22,7 @@
 <img width="68em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white">
 </section>
 
-<h3 align="center"> Como entrar em contato comigo? </h3>
+<h2 align="center"> Como entrar em contato comigo? </h2>
 
 <section align="center">    
 <a href="abreu.marcelo@escola.pr.gov.br" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=white"></a> 
@@ -31,8 +31,6 @@
 </section>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
-
-</div>
+ </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=130&section=footer"/>
