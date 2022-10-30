@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=160&section=header&text=Marcelo+Abreu&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<img src="imagens/computer-illustration.png" min-width="400px" max-width="450px" width="500px" align="center" alt="Computador">
+<img src="imagens/computer-illustration.png" min-width="400px" max-width="60px" width="600px" align="center" alt="Computador">
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=48&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+Abreu+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
