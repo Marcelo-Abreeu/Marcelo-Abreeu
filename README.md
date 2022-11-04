@@ -13,7 +13,7 @@
 
 <div align="center">
 <a href="https://github.com/abreu-marcelo">
-<img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=abreu-marcelo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
 <h2 align="center"> Linguagens que estou estudando! </h2>
