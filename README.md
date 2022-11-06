@@ -21,7 +21,7 @@
 <section align="center">
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="77em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="107em" src="https://img.shields.io/badge/javascript-21262D?style=for-the-badge&logo=javascript&logoColor=white">
-<img width="68em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="68em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white"></a>
 </section>
 
 <h2 align="center"> Como entrar em contato comigo? </h2>
