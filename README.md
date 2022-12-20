@@ -1,8 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=120&section=header&text=Marcelo+Abreu&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-<img src="imagens/computer-illustration.png" min-width="400px" max-width="60px" width="600px" align="center" alt="Computador">
+<section align="center">
+<img src="imagens/website-creator-animate.svg" min-width="400px" max-width="60px" width="500px" align="center" alt="Computador">
+</section>
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=48&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
 - 🧑‍🎓  - No momento estou estudando HTML & CSS...
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
