@@ -2,7 +2,7 @@
 <img src="imagens/computer-illustration.png" min-width="400px" max-width="60px" width="600px" align="center" alt="Computador">
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=48&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+Abreu+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=48&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
 - 🧑‍🎓  - No momento estou estudando HTML & CSS...
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
