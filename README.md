@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=160&section=header&text=Marcelo+Abreu&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=120&section=header&text=Marcelo+Abreu&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <img src="imagens/computer-illustration.png" min-width="400px" max-width="60px" width="600px" align="center" alt="Computador">
 
 
@@ -35,4 +35,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=120&section=footer"/>
