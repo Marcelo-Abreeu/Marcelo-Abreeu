@@ -5,21 +5,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
-<h2 align="center">Sobre Mim ?</h2>
+<h2 align="center"> About Me ?</h2>
 
 - 🧑‍🎓  - No momento estou estudando HTML & CSS...
 - 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
 - 💬  - Meu email para contato marcelo.h.d.abreu@gmail.com...
 
 -------
-<h2 align="center"> Estatísticas do meu perfil! </h2>
+<h2 align="center"> My Profile Stats! </h2>
 
 <div align="center">
 <a href="https://github.com/Marcelo-Abreeu">
 <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Abreeu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
 </div>
 
-<h2 align="center"> Linguagens que estou estudando! </h2>
+<h2 align="center"> Linguagens I'm Studying! </h2>
 
 <section align="center">
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="77em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=white"></a>
@@ -27,7 +27,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="68em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white"></a>
 </section>
 
-<h2 align="center"> Como entrar em contato comigo? </h2>
+<h2 align="center"> How to contact me? </h2>
 
 <section align="center">    
 <a href="abreu.marcelo@escola.pr.gov.br" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=white"></a> 
