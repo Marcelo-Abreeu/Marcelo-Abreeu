@@ -7,10 +7,8 @@
 
 <h2 align="center"> About Me ?</h2>
 
-- 🧑‍🎓  - No momento estou estudando HTML & CSS...
-- 🖥️  - Tenho interesse em Desenvolvimento Web & Programação ...
-- 💬  - Meu email para contato - marcelo.h.d.abreu@gmail.com...
-
+> Estou estudando **Desenvolvimento Web** com foco em programação **Front end**.
+Aspiro a conseguir um emprego no mundo da Programação, ganhar experiência, novos conhecimentos e fortalecer a minha vida profissional.
 -------
 <h2 align="center"> My Profile Stats! </h2>
 
