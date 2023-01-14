@@ -9,7 +9,7 @@
 
 > Estou estudando **Desenvolvimento Web** com foco em programação **Front end**.
 Aspiro a conseguir um emprego no mundo da Programação, ganhar experiência, novos conhecimentos e fortalecer a minha vida profissional.
--------
+
 <h2 align="center"> My Profile Stats! </h2>
 
 <div align="center">
