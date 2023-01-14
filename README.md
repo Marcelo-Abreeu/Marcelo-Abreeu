@@ -15,7 +15,7 @@ Aspiro a conseguir um emprego no mundo da Programação, ganhar experiência, no
 <div align="center">
 <a href="https://github.com/Marcelo-Abreeu">
 <img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Abreeu&show_icons=true&theme=red&include_all_commits=true&count_private=true"/>
-<img  align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Abreeu&theme=midnight-purple&hide_border=false"/>
+<img  align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Abreeu&theme=red&hide_border=false"/>
 </div>
 
 <h2 align="center"> Linguagens I'm Studying! </h2>
