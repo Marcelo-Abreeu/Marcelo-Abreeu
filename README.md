@@ -7,8 +7,7 @@
 
 <h2 align="center"> About Me ?</h2>
 
-> Estou estudando **Desenvolvimento Web** com foco em programação **Front end**.
-Aspiro a conseguir um emprego no mundo da Programação, ganhar experiência, novos conhecimentos e fortalecer a minha vida profissional.
+> I'm studying Web Development with a focus on Front-end programming. I aspire to get a job in the world of Programming, gain experience, new knowledge and strengthen my professional life.
 
 <h2 align="center"> My Profile Stats! </h2>
 
