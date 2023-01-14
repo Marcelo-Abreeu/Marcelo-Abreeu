@@ -21,9 +21,9 @@ Aspiro a conseguir um emprego no mundo da Programação, ganhar experiência, no
 <h2 align="center"> Linguagens I'm Studying! </h2>
 
 <section align="center">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"><img width="77em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=white"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="107em" src="https://img.shields.io/badge/javascript-21262D?style=for-the-badge&logo=javascript&logoColor=white">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"><img width="68em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Html" target="_blank"><img width="81em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=white"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Css" target="_blank"><img width="70em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="115em" src="https://img.shields.io/badge/javascript-21262D?style=for-the-badge&logo=javascript&logoColor=white">
 </section>
 
 <h2 align="center"> How to contact me? </h2>
