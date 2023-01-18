@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=120&section=header&text=Marcelo+Abreu&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 <section align="center">
-<img src="imagens/website-creator-animate.svg" min-width="400px" max-width="60px" width="500px" align="center" alt="Computador">
+<img src="imagens/website-creator-animate.svg" min-width="100px" max-width="60px" width="300px" align="center" alt="Computador">
 </section>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=40&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Marcelo+🚀;Seja+Bem+Vindo+(a)!+:%29)](https://git.io/typing-svg)
 
 <h2 align="center"> About Me ?</h2>
 
-> I'm studying Web Development with a focus on Front-end programming. I aspire to get a job in the world of Programming, gain experience, new knowledge and strengthen my professional life.
+ > I'm currently studying Web Development with a focus on Front-end programming. I aspire to get a job in the world of Programming, gain experience, new knowledge and strengthen my professional life.
 
 <h2 align="center"> My Profile Stats! </h2>
 
