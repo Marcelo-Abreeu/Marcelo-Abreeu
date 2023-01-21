@@ -3,7 +3,7 @@
 <img src="imagens/website-creator-animate.svg" min-width="100px" max-width="60px" width="300px" align="center" alt="Computador">
 </section>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+🚀;Welcome+(a)!+%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+🚀;Welcome+(a)!+:%29)](https://git.io/typing-svg)
 
 <h2 align="center"> About Me ?</h2>
 
