@@ -1,9 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=120&section=header&text=Marcelo+Abreu&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a1dcdc&height=120&section=header&text=&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/>
 <section align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a1dcdc&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+🚀;Welcome+(a)!+:%29)](https://git.io/typing-svg)
+
 <img src="imagens/website-creator-animate.svg" min-width="100px" max-width="60px" width="300px" align="center" alt="Computador">
 </section>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5823d2&size=50&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+🚀;Welcome+(a)!+:%29)](https://git.io/typing-svg)
+
 
 <h2 align="center"> About Me ?</h2>
 
@@ -13,8 +16,8 @@
 
 <div align="center">
 <a href="https://github.com/Marcelo-Abreeu">
-<img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Abreeu&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-<img  align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Abreeu&theme=midnight-purple&hide_border=false"/>
+<img  align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=Marcelo-Abreeu&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+<img  align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Abreeu&theme=vue&hide_border=false"/>
 </div>
 
 <h2 align="center"> Linguagens I'm Studying! </h2>
@@ -36,4 +39,4 @@
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5823d2&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=a1dcdc&height=120&section=footer"/> 
