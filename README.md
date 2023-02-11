@@ -20,12 +20,14 @@
 <img  align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcelo-Abreeu&theme=graywhite&hide_border=false"/>
 </div>
 
-<h2 align="center"> Linguagens I'm Studying! </h2>
+<h2 align="center"> My Skills & Expertise! </h2>
 
 <section align="center">
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/Html" target="_blank"><img width="81em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=ccc"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/Css" target="_blank"><img width="70em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=ccc"></a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="115em" src="https://img.shields.io/badge/javascript-21262D?style=for-the-badge&logo=javascript&logoColor=ccc">
+<a href="https://git-scm.com/" target="_blank"><img width="65em" src="https://img.shields.io/badge/git-21262D?style=for-the-badge&logo=git&logoColor=ccc"></a>
+<a href="https://docs.github.com/pt" target="_blank"><img width="90em" src="https://img.shields.io/badge/github-21262D?style=for-the-badge&logo=github&logoColor=ccc"></a>
 </section>
 
 <h2 align="center"> How to contact me? </h2>
