@@ -34,7 +34,7 @@
 
 <section align="center">    
 <a href="#" target="_blank"><img width="90em" src="https://img.shields.io/badge/twitter-21262D?style=for-the-badge&logo=twitter&logoColor=ccc" target="_blank"></a>
-<a href="mailto:abreu.marcelo@escola.pr.gov.br" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=ccc"></a> 
+<a href="mailto:marcelo.h.d.abreu@gmail.com" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=ccc"></a> 
 <a href="#" target="_blank"><img width="107em" src="https://img.shields.io/badge/-Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=ccc" target="_blank"></a> 
 </section>
   
