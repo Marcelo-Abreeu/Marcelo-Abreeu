@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=868686&size=45&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcelo+🚀;be+well+Welcome+(a)!+:%29)](https://git.io/typing-svg)
 
-<img src="imagens/404.svg" min-width="100px" max-width="60px" width="300px" align="center" alt="Coding">
+<img src="imagens/img.jpg" min-width="100px" max-width="60px" width="300px" align="center" alt="Coding">
 </section>
 
 
