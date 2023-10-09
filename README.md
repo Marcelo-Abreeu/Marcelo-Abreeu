@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ccc&height=120&section=header&text=&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ccc&height=110&section=header&text=&fontSize=30&fontColor=000&animation=twinkling&fontAlignY=35"/>
 <section align="center">
 
 <!--<img src="imagens/img-01.png"  align="center" alt="Coding">-->
@@ -10,8 +10,9 @@
 
 <h2 align="center"> About Me ?</h2>
 
- > I'm currently studying Web Development with a focus on Front-end programming. I aspire to get a job in the world of Programming, gain experience, new knowledge and strengthen my professional life.
-
+ <div width="20%" align="center"> 
+   I'm currently studying Web Development with a focus on Front-end programming. I aspire to get a job in the world of Programming, gain experience, new knowledge and   strengthen my professional life.
+</div>
 <h2 align="center"> My Profile Stats! </h2>
 
 <div align="center">
@@ -23,22 +24,20 @@
 <h2 align="center"> My Skills & Expertise! </h2>
 
 <section align="center">
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/Html" target="_blank"><img width="81em" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=ccc"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/Css" target="_blank"><img width="70em" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=ccc"></a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="115em" src="https://img.shields.io/badge/javascript-21262D?style=for-the-badge&logo=javascript&logoColor=ccc">
-<a href="https://git-scm.com/" target="_blank"><img width="65em" src="https://img.shields.io/badge/git-21262D?style=for-the-badge&logo=git&logoColor=ccc"></a>
-<a href="https://docs.github.com/pt" target="_blank"><img width="90em" src="https://img.shields.io/badge/github-21262D?style=for-the-badge&logo=github&logoColor=ccc"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Html" target="_blank"><img width="115px" src="https://img.shields.io/badge/html5-21262D?style=for-the-badge&logo=html5&logoColor=ccc"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/Css" target="_blank"><img width="100px" src="https://img.shields.io/badge/css3-21262D?style=for-the-badge&logo=css3&logoColor=ccc"></a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img width="165px" src="https://img.shields.io/badge/javascript-21262D?style=for-the-badge&logo=javascript&logoColor=ccc">
+ <a href="https://developer.mozilla.org/pt-BR/docs/python" target="_blank"><img width="127px" src="https://img.shields.io/badge/python-21262D?style=for-the-badge&logo=python&logoColor=ccc">
+<a href="https://git-scm.com/" target="_blank"><img width="88px" src="https://img.shields.io/badge/git-21262D?style=for-the-badge&logo=git&logoColor=ccc"></a>
+<a href="https://docs.github.com/pt" target="_blank"><img width="125px" src="https://img.shields.io/badge/github-21262D?style=for-the-badge&logo=github&logoColor=ccc"></a>
 </section>
 
 <h2 align="center"> How to contact me? </h2>
 
 <section align="center">    
-<a href="#" target="_blank"><img width="90em" src="https://img.shields.io/badge/twitter-21262D?style=for-the-badge&logo=twitter&logoColor=ccc" target="_blank"></a>
-<a href="mailto:marcelo.h.d.abreu@gmail.com" target="_blank"><img width="77em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=ccc"></a> 
-<a href="#" target="_blank"><img width="107em" src="https://img.shields.io/badge/-Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=ccc" target="_blank"></a> 
+<a href="#" target="_blank"><img width="115em" src="https://img.shields.io/badge/twitter-21262D?style=for-the-badge&logo=twitter&logoColor=ccc" target="_blank"></a>
+<a href="mailto:marcelo.h.d.abreu@gmail.com" target="_blank"><img width="97em" src="https://img.shields.io/badge/Gmail-21262D?style=for-the-badge&logo=gmail&logoColor=ccc"></a> 
+<a href="#" target="_blank"><img width="135em" src="https://img.shields.io/badge/-Instagram-21262D?style=for-the-badge&logo=instagram&logoColor=ccc" target="_blank"></a> 
 </section>
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ccc&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ccc&height=110&section=footer"/> 
